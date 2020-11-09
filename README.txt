@@ -1,4 +1,6 @@
-This shows different approaches to complex data transformations
+This shows different approaches to complex data transformations.
+
+From https://raganwald.com/2017/04/30/transducers.html
 
 First we try a stagged approach -> very good readability
     as a nested call to functions. We use lots of maps and reductions!
